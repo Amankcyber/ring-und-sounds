@@ -1,0 +1,48 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVUAAAAAAFAFUAUAAACQWQAABQAAAJBZAAAFAAAAAFAFUAUAAAAAAFVVAAAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "target"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiIgAAAAAAACIiAAAAAAAAIiIAAAAAAAAiIgAAAAAAACACAAAAAAAAIiIAAAAAAAAiIgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "fish"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "YzgwMDEwMDAxMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMzAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA=",
+        "displayName": "myAnim"
+    },
+    "song1": {
+        "data": "0078000408020100001c00010a006400f4016400000400000000000000000000000000050000045a0000000400012404000800012208000c0001200c001000012210001400012014001800011e18001c0001201c002000011e20002400011d24002800011e28002c00011d2c003000011b30003400011d34003800011b38003c000119",
+        "mimeType": "application/mkcd-song",
+        "displayName": "gollum song",
+        "namespace": "mySongs."
+    },
+    "song2": {
+        "data": "00780004080200",
+        "mimeType": "application/mkcd-song",
+        "displayName": "meinLied",
+        "namespace": "mySongs."
+    },
+    "song3": {
+        "data": "00780004080200",
+        "mimeType": "application/mkcd-song",
+        "displayName": "meinLied0",
+        "namespace": "mySongs."
+    },
+    "song4": {
+        "data": "00780004080200",
+        "mimeType": "application/mkcd-song",
+        "displayName": "meinLied1",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
